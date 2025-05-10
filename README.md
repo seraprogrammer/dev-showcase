@@ -22,7 +22,7 @@ https://seraprogrammer.com/username
 ```
 
 Example:  
-[https://seraprogrammer.com/jhon](https://seraprogrammer.com/jhon)
+[https://seraprogrammer.com/nazmul](https://seraprogrammer.com/nazmul)
 
 🔗 These profiles are easily shareable and viewable by recruiters, peers, and collaborators.
 
